@@ -5,11 +5,15 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
+
+- [📊 Projeto](#-projeto-mapeamento-do-ecossistema-industrial-e-de-serviços)
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
+- [📌 Objetivos Específicos](#-objetivos-específicos)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [👥 Equipe](#equipe)
+- [📸 Preview do Dashboard](#-preview-do-dashboard)
+- [📋 Product Backlog](#product-backlog)
+- [📅 Registro das Sprints](#registro-das-sprints)
 
 
 # 📊 Projeto: Mapeamento do Ecossistema Industrial e de Serviços
