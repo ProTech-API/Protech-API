@@ -90,6 +90,6 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 
 ## 📄 Documentação
 
-- 📘 [Documentação Completa](./Docs/Documentacao.pdf)
+- 📘 [Documentação Completa]([./Docs/Documentacao.pdf](https://github.com/SEU-USUARIO/SEU-REPO/raw/main/Docs/Documentacao.pdf))
 
 
