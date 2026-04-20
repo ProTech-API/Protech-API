@@ -32,14 +32,19 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+## 🎯 Objetivo do Projeto
 
+Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, com o propósito de analisar e apresentar o ecossistema industrial e de serviços de São José dos Campos e região, atendendo às demandas da Secretaria de Desenvolvimento.
+
+## 📌 Objetivos Específicos
+
+- Mapear os principais setores industriais e de serviços da região  
+- Identificar e classificar as atividades econômicas predominantes  
+- Representar geograficamente a distribuição das empresas e setores produtivos  
+- Apresentar indicadores econômicos e produtivos relevantes  
+- Comparar diferentes segmentos industriais e de serviços  
+- Criar visualizações gráficas e painéis analíticos para facilitar a interpretação dos dados  
+- Desenvolver uma interface clara, intuitiva e funcional para o usuário  
 
 ## Tecnologias Utilizadas
 
