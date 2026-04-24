@@ -66,7 +66,7 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 
 ## 📸 Preview do Dashboard 
 
-https://centropaulasouza-my.sharepoint.com/:u:/g/personal/guilherme_peratelli_aluno_cps_sp_gov_br/IQD-5wmsa95-QIHBNvLlS1mSATx6ja4HgT8YOCtS0GW8O4M
+https://github.com/ProTech-API/.github/blob/main/Docs/s%C3%A3ojos%C3%A9doscamposdashboard.pbix
 
 
 # Product Backlog
