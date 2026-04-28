@@ -73,21 +73,21 @@ Desenvolver um dashboard interativo no Power BI, utilizando dados da base RAIS, 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | -          | 1      |
-| 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | -          | 1      |
-| 3º   | Alta       | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | -          | 1      |
-| 4º   | Média      | -                                                                                                                                                       | -          | 2      |
-| 5º   | Média      | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
-| 6º   | Média      | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
-| 7º   | Baixa      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto?                                       | -          | 2      |
-| 8º   | Alta       | Dashboard já em funcionalidade. Pequnos detalhes serão revisados até o dia da feira de soluções                                                         | -          | 3      |
+| 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 18 dias    | 1      |
+| 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | 18 dias    | 1      |
+| 3º   | Alta       | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 18 dias    | 1      |
+| 4º   | Alta       | Como esses setores estão distribuídos geograficamente no município e na região?                                                                         | -          | 2      |
+| 5º   | Alta       | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
+| 6º   | Alta       | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
+| 7º   | Alta       | Quais são as principais empresas dos principais setores industriais e de serviços em São José dos Campos e região?                                      | -          | 2      |
+| 8°   | Média      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto? 
   
 
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 20/04/2026 | a fazer  | [MVP](https://docs.google.com/document/d/1M5s7SU5bRekXxxLCeA3t_fk-9DoxTlX-LpxAY31qyZM/edit?usp=sharing)  |
+| 01                | 27/04/2026 |concluído | [MVP](https://docs.google.com/document/d/1M5s7SU5bRekXxxLCeA3t_fk-9DoxTlX-LpxAY31qyZM/edit?usp=sharing)  |
 | 02                | 18/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
